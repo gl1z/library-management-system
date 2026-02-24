@@ -41,5 +41,5 @@ It was originally developed as part of my Computer Science coursework and later 
 ---
 
 ## Author
-Tom  
-Computer Science student focused on Cloud & DevOps  
+gl1z
+Computer Science student focus on Cloud and DevOps
