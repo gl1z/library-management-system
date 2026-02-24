@@ -41,5 +41,5 @@ It was originally developed as part of my Computer Science coursework and later 
 ---
 
 ## Author
-@gl1z
+[@gl1z](https://github.com/gl1z)
 Computer Science student focus on Cloud and DevOps
